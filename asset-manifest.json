@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newspark-clinic/static/css/main.da89a397.css",
+    "main.js": "/newspark-clinic/static/js/main.09ba0fa3.js",
+    "static/js/453.fff677d7.chunk.js": "/newspark-clinic/static/js/453.fff677d7.chunk.js",
+    "index.html": "/newspark-clinic/index.html",
+    "main.da89a397.css.map": "/newspark-clinic/static/css/main.da89a397.css.map",
+    "main.09ba0fa3.js.map": "/newspark-clinic/static/js/main.09ba0fa3.js.map",
+    "453.fff677d7.chunk.js.map": "/newspark-clinic/static/js/453.fff677d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da89a397.css",
+    "static/js/main.09ba0fa3.js"
+  ]
+}
