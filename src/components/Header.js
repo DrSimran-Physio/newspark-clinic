@@ -13,7 +13,7 @@ function Header() {
     return (
         <header className="header">
             <img src={logo} alt="NewSpark Logo" className="logo" />
-            <h1>NewSpark Physiotherapy Clinic</h1>
+            <h1>Dr. Simran's <br></br>NewSpark Physiotherapy Clinic</h1>
             <nav>
                 <div className="hamburger" onClick={toggleMenu}>
                     {isOpen ? <FaTimes /> : <FaBars />}
