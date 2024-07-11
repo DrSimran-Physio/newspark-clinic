@@ -1,0 +1,13 @@
+section#services {
+    padding: 2em;
+    background-color: #fff;
+}
+
+section#services ul {
+    list-style: none;
+    padding: 0;
+}
+
+section#services ul li {
+    margin-bottom: 0.5em;
+}
