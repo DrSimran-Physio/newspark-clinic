@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/newspark-clinic/static/css/main.da89a397.css",
-    "main.js": "/newspark-clinic/static/js/main.b896602e.js",
+    "main.css": "/newspark-clinic/static/css/main.49159670.css",
+    "main.js": "/newspark-clinic/static/js/main.325a5ead.js",
     "static/js/453.fff677d7.chunk.js": "/newspark-clinic/static/js/453.fff677d7.chunk.js",
+    "static/media/background.jpg": "/newspark-clinic/static/media/background.f4784f5a46cfd42bea9d.jpg",
+    "static/media/clinic.jpg": "/newspark-clinic/static/media/clinic.4f9b86cdb235067ffb77.jpg",
+    "static/media/s1.jpg": "/newspark-clinic/static/media/s1.2136e007eb84544f695a.jpg",
+    "static/media/s3.jpg": "/newspark-clinic/static/media/s3.5dd1d77f7095df21076d.jpg",
+    "static/media/s2.jpg": "/newspark-clinic/static/media/s2.0aa22c31e2010ba4f1c1.jpg",
+    "static/media/s6.jpg": "/newspark-clinic/static/media/s6.ba9ed9eff06fb29387ad.jpg",
+    "static/media/doctor.jpg": "/newspark-clinic/static/media/doctor.6c8f096592b055c8932d.jpg",
+    "static/media/s5.jpg": "/newspark-clinic/static/media/s5.fe56e7d96548ca2dfa60.jpg",
+    "static/media/s4.jpg": "/newspark-clinic/static/media/s4.ccaaef231f66c9728161.jpg",
+    "static/media/logo.jpg": "/newspark-clinic/static/media/logo.1c66bffd496ecb735750.jpg",
     "index.html": "/newspark-clinic/index.html",
-    "main.da89a397.css.map": "/newspark-clinic/static/css/main.da89a397.css.map",
-    "main.b896602e.js.map": "/newspark-clinic/static/js/main.b896602e.js.map",
+    "main.49159670.css.map": "/newspark-clinic/static/css/main.49159670.css.map",
+    "main.325a5ead.js.map": "/newspark-clinic/static/js/main.325a5ead.js.map",
     "453.fff677d7.chunk.js.map": "/newspark-clinic/static/js/453.fff677d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da89a397.css",
-    "static/js/main.b896602e.js"
+    "static/css/main.49159670.css",
+    "static/js/main.325a5ead.js"
   ]
 }
