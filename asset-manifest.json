@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/newspark-clinic/static/css/main.49159670.css",
-    "main.js": "/newspark-clinic/static/js/main.325a5ead.js",
+    "main.css": "/newspark-clinic/static/css/main.91f989db.css",
+    "main.js": "/newspark-clinic/static/js/main.facd4392.js",
     "static/js/453.fff677d7.chunk.js": "/newspark-clinic/static/js/453.fff677d7.chunk.js",
     "static/media/background.jpg": "/newspark-clinic/static/media/background.f4784f5a46cfd42bea9d.jpg",
     "static/media/clinic.jpg": "/newspark-clinic/static/media/clinic.4f9b86cdb235067ffb77.jpg",
@@ -14,12 +14,12 @@
     "static/media/s4.jpg": "/newspark-clinic/static/media/s4.ccaaef231f66c9728161.jpg",
     "static/media/logo.jpg": "/newspark-clinic/static/media/logo.1c66bffd496ecb735750.jpg",
     "index.html": "/newspark-clinic/index.html",
-    "main.49159670.css.map": "/newspark-clinic/static/css/main.49159670.css.map",
-    "main.325a5ead.js.map": "/newspark-clinic/static/js/main.325a5ead.js.map",
+    "main.91f989db.css.map": "/newspark-clinic/static/css/main.91f989db.css.map",
+    "main.facd4392.js.map": "/newspark-clinic/static/js/main.facd4392.js.map",
     "453.fff677d7.chunk.js.map": "/newspark-clinic/static/js/453.fff677d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49159670.css",
-    "static/js/main.325a5ead.js"
+    "static/css/main.91f989db.css",
+    "static/js/main.facd4392.js"
   ]
 }
