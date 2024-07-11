@@ -1,4 +1,47 @@
-section#about {
+.about {
     padding: 2em;
-    background-color: #f4f4f4;
+    background-color: rgba(0, 0, 0, 0.85);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.about h2 {
+    margin-bottom: 1em;
+    color: #f0f0f0;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    max-width: 800px;
+}
+
+.about-image {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.about-text {
+    text-align: justify;
+    color: #d0d0d0;
+}
+
+@media (max-width: 768px) {
+    .about {
+        padding: 1em;
+    }
+
+    .about-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .about-text {
+        text-align: center;
+    }
 }
