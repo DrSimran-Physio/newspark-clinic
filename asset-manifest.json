@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newspark-clinic/static/css/main.91f989db.css",
-    "main.js": "/newspark-clinic/static/js/main.facd4392.js",
+    "main.js": "/newspark-clinic/static/js/main.5e0b82e2.js",
     "static/js/453.fff677d7.chunk.js": "/newspark-clinic/static/js/453.fff677d7.chunk.js",
     "static/media/background.jpg": "/newspark-clinic/static/media/background.f4784f5a46cfd42bea9d.jpg",
     "static/media/clinic.jpg": "/newspark-clinic/static/media/clinic.4f9b86cdb235067ffb77.jpg",
@@ -15,11 +15,11 @@
     "static/media/logo.jpg": "/newspark-clinic/static/media/logo.1c66bffd496ecb735750.jpg",
     "index.html": "/newspark-clinic/index.html",
     "main.91f989db.css.map": "/newspark-clinic/static/css/main.91f989db.css.map",
-    "main.facd4392.js.map": "/newspark-clinic/static/js/main.facd4392.js.map",
+    "main.5e0b82e2.js.map": "/newspark-clinic/static/js/main.5e0b82e2.js.map",
     "453.fff677d7.chunk.js.map": "/newspark-clinic/static/js/453.fff677d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91f989db.css",
-    "static/js/main.facd4392.js"
+    "static/js/main.5e0b82e2.js"
   ]
 }
