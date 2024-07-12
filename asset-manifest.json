@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/newspark-clinic/static/css/main.59b24e71.css",
-    "main.js": "/newspark-clinic/static/js/main.5e0b82e2.js",
-    "static/js/453.fff677d7.chunk.js": "/newspark-clinic/static/js/453.fff677d7.chunk.js",
-    "static/media/background.jpg": "/newspark-clinic/static/media/background.f4784f5a46cfd42bea9d.jpg",
-    "static/media/clinic.jpg": "/newspark-clinic/static/media/clinic.4f9b86cdb235067ffb77.jpg",
-    "static/media/s1.jpg": "/newspark-clinic/static/media/s1.2136e007eb84544f695a.jpg",
-    "static/media/s3.jpg": "/newspark-clinic/static/media/s3.5dd1d77f7095df21076d.jpg",
-    "static/media/s2.jpg": "/newspark-clinic/static/media/s2.0aa22c31e2010ba4f1c1.jpg",
-    "static/media/s6.jpg": "/newspark-clinic/static/media/s6.ba9ed9eff06fb29387ad.jpg",
-    "static/media/doctor.jpg": "/newspark-clinic/static/media/doctor.6c8f096592b055c8932d.jpg",
-    "static/media/s5.jpg": "/newspark-clinic/static/media/s5.fe56e7d96548ca2dfa60.jpg",
-    "static/media/s4.jpg": "/newspark-clinic/static/media/s4.ccaaef231f66c9728161.jpg",
-    "static/media/logo.jpg": "/newspark-clinic/static/media/logo.1c66bffd496ecb735750.jpg",
-    "index.html": "/newspark-clinic/index.html",
-    "main.59b24e71.css.map": "/newspark-clinic/static/css/main.59b24e71.css.map",
-    "main.5e0b82e2.js.map": "/newspark-clinic/static/js/main.5e0b82e2.js.map",
-    "453.fff677d7.chunk.js.map": "/newspark-clinic/static/js/453.fff677d7.chunk.js.map"
+    "main.css": "/static/css/main.17c480ee.css",
+    "main.js": "/static/js/main.8ce0900e.js",
+    "static/js/453.fff677d7.chunk.js": "/static/js/453.fff677d7.chunk.js",
+    "static/media/background.jpg": "/static/media/background.f4784f5a46cfd42bea9d.jpg",
+    "static/media/clinic.jpg": "/static/media/clinic.4f9b86cdb235067ffb77.jpg",
+    "static/media/s1.jpg": "/static/media/s1.2136e007eb84544f695a.jpg",
+    "static/media/s3.jpg": "/static/media/s3.5dd1d77f7095df21076d.jpg",
+    "static/media/s2.jpg": "/static/media/s2.0aa22c31e2010ba4f1c1.jpg",
+    "static/media/s6.jpg": "/static/media/s6.ba9ed9eff06fb29387ad.jpg",
+    "static/media/doctor.jpg": "/static/media/doctor.6c8f096592b055c8932d.jpg",
+    "static/media/s5.jpg": "/static/media/s5.fe56e7d96548ca2dfa60.jpg",
+    "static/media/s4.jpg": "/static/media/s4.ccaaef231f66c9728161.jpg",
+    "static/media/logo.jpg": "/static/media/logo.1c66bffd496ecb735750.jpg",
+    "index.html": "/index.html",
+    "main.17c480ee.css.map": "/static/css/main.17c480ee.css.map",
+    "main.8ce0900e.js.map": "/static/js/main.8ce0900e.js.map",
+    "453.fff677d7.chunk.js.map": "/static/js/453.fff677d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59b24e71.css",
-    "static/js/main.5e0b82e2.js"
+    "static/css/main.17c480ee.css",
+    "static/js/main.8ce0900e.js"
   ]
 }
